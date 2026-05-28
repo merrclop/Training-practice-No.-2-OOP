@@ -10,7 +10,7 @@ The first task has been completed:
 
 The second task has been completed:
 
-![task1](/task1/task2.png)
+![task2](/task2/task2.png)
 
 ---
 
