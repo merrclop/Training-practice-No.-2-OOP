@@ -19,3 +19,9 @@ The third task has been completed:
 ![task3](/task3/task3.png)
 
 ---
+
+The fourth task has been completed:
+
+![task4](/task4/task4.png)
+
+---
