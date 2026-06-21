@@ -37,3 +37,9 @@ The sixth task has been completed:
 ![task6](/task6/task6.png)
 
 ---
+
+The seventh task has been completed:
+
+![task7](/task7/task7.png)
+
+---
