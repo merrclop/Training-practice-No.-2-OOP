@@ -31,3 +31,9 @@ The fifth task has been completed:
 ![task5](/task5/task5.png)
 
 ___
+
+The sixth task has been completed:
+
+![task6](/task6/task6.png)
+
+---
