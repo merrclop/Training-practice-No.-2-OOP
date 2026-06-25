@@ -53,8 +53,5 @@ Git-Watcher!:
 
 ![git-watcher](/git-watcher/git-watcher.png)
 
-<p align="center">
-	<video src="git-watcher.mp4" width="70%" controls></video>
-</p>
-
+![git-watcher](git-watcher.gif)
 ---
