@@ -1,0 +1,133 @@
+commit fa10a0943bf932fedd4813ac8309e90af5ff2e1a
+Author: merrclop <misha.kabar@gmail.com>
+Date:   Sat Jun 27 15:04:46 2026 +0300
+
+    update:practice.docx
+
+commit 54c984aed41bcdfddc6ccea4f343512bfd6c66b6
+Author: merrclop <misha.kabar@gmail.com>
+Date:   Fri Jun 26 20:42:32 2026 +0300
+
+    add:presentation.pttx
+
+commit f8010d885d2361937294bd0f72dd246f8cd89bb8
+Author: merrclop <misha.kabar@gmail.com>
+Date:   Fri Jun 26 20:37:51 2026 +0300
+
+    add:presentation.pttx
+
+commit 52de04c5dc1e4795fa11c8ec7361bd8c59e67867
+Author: merrclop <misha.kabar@gmail.com>
+Date:   Fri Jun 26 17:36:08 2026 +0300
+
+    add:practice.docx | rm: звіт_практика.docx
+
+commit 8f5a601c0df66a8af7b346a1a6888d8a9d966ac0
+Author: merrclop <misha.kabar@gmail.com>
+Date:   Thu Jun 25 21:08:59 2026 +0300
+
+    remove:mp4, add:gif
+
+commit 3e7cfeb372cac8a5675b5169d97a6a1c736cce7b
+Author: merrclop <misha.kabar@gmail.com>
+Date:   Thu Jun 25 20:59:03 2026 +0300
+
+    update: README.md
+
+commit 26505d69521b08b0a0fcc627f1a0e76cb5c43bb1
+Author: merrclop <misha.kabar@gmail.com>
+Date:   Thu Jun 25 20:24:18 2026 +0300
+
+    add: docx
+
+commit f5cef69cd1cac0ea0215c4b1c03a7a2adde3f548
+Author: merrclop <misha.kabar@gmail.com>
+Date:   Sun Jun 21 20:41:04 2026 +0300
+
+    add: git-watcher
+
+commit 90212b21ecf69bedd0dac26beb9400581ef435dc
+Author: merrclop <misha.kabar@gmail.com>
+Date:   Sun Jun 21 19:56:42 2026 +0300
+
+    fix: README.md
+
+commit 5270ea8fbad404b0a46caa88367b88c1b28e053f
+Author: merrclop <misha.kabar@gmail.com>
+Date:   Sun Jun 21 19:54:29 2026 +0300
+
+    Add: task8
+
+commit 4e3e1e8010cb4150f0143454eca91c9591ad51ef
+Author: merrclop <misha.kabar@gmail.com>
+Date:   Sun Jun 21 19:48:29 2026 +0300
+
+    Add: task7
+
+commit e702e22f55ac340e53d7f8bcc5865d2cf90a309a
+Author: merrclop <misha.kabar@gmail.com>
+Date:   Sun Jun 21 19:40:56 2026 +0300
+
+    Add: task6
+
+commit 91cbff831e66e0098415440d8f46a77e289135cb
+Author: merrclop <Misha.kabar@gmail.com>
+Date:   Fri May 29 17:57:09 2026 +0300
+
+    add: task5 | modified: README.md
+
+commit 5818551f57436d1454dc9d0ead2ce1ffbc974438
+Author: merrclop <Misha.kabar@gmail.com>
+Date:   Fri May 29 17:45:20 2026 +0300
+
+    add: task4 | modified: README.md
+
+commit 7dc3d9527b16c114b10d0d11a18e932d2830a702
+Author: merrclop <Misha.kabar@gmail.com>
+Date:   Thu May 28 20:51:28 2026 +0300
+
+    add: task3 | modified: README.md
+
+commit 1eaf53f50f4a43db34255bc33bdf7bcd10601c19
+Author: merrclop <misha.kabar@gmail.com>
+Date:   Thu May 28 20:41:24 2026 +0300
+
+    Update image reference for task2 in README
+
+commit d4ca41e286f286040c1e19983d566db2865933b2
+Author: merrclop <Misha.kabar@gmail.com>
+Date:   Thu May 28 20:40:31 2026 +0300
+
+     modified:   README.md
+
+commit d46b461d3a0aa16d130d02977f067cb30c000859
+Author: merrclop <Misha.kabar@gmail.com>
+Date:   Thu May 28 20:37:31 2026 +0300
+
+    add: task2
+
+commit 761b6cbd5465427227ef4eb291d6d9c42d02b224
+Author: merrclop <misha.kabar@gmail.com>
+Date:   Mon May 25 18:34:23 2026 +0300
+
+    Update README with task completion details
+    
+    Add task completion information and image to README
+
+commit b0bfe9c9e4cfb6006c6428a2ded11be27feeb4ee
+Author: merrclop <Misha.kabar@gmail.com>
+Date:   Mon May 25 18:32:53 2026 +0300
+
+    renamed:    Screenshot_25-May_18-24-29_11595.png -> task1.png
+
+commit 673d591be8af08567bc9aa6b891e2b66b6b206c0
+Author: merrclop <Misha.kabar@gmail.com>
+Date:   Mon May 25 18:26:14 2026 +0300
+
+    add: task1
+
+commit 3231ee2cf2f79096769d5a317a0985e696a1175e
+Author: merrclop <Misha.kabar@gmail.com>
+Date:   Mon May 25 18:17:00 2026 +0300
+
+    first commit
